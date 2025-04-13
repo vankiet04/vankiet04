@@ -1,1 +1,1 @@
-# [me](https://leetcode.com/u/vankiet24/)
+# (https://leetcode.com/u/vankiet24/)
